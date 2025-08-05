@@ -4,6 +4,11 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 
 ---
 
+## 💻 Live Demo
+- [⛓️‍💥 Demo](https://portofoliu-personal-drab.vercel.app/)
+
+---
+
 ## 🔍 Features
 
 - Generate QR codes from any text or URL
@@ -13,7 +18,7 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 
 ---
 
-## 📦 Project Structure
+## 📂 Project Structure
 
 - .
 - ├── index.html              # Main HTML file
