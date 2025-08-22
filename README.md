@@ -10,6 +10,20 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="screenshots/qr-code-app.png" width="600">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/qr-code-generated.png" width="600">
+</p>
+
+---
+
 ## 🔍 Features
 
 - Generate QR codes from any text or URL
