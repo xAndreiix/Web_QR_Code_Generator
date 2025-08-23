@@ -7,6 +7,7 @@
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
+- 🛠️ [Technologies](#technologies)
 - 🗂️ [Project structure](#project-structure)
 - 💾 [Installation](#installation)
 - ▶️ [Usage](#usage)
@@ -46,7 +47,13 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 - Instant preview inside a `<canvas>`
 - Styled responsive UI
 - Uses QRCode.js (via CDN) to render canvas output
-<!-- ## Technologies -->
+
+---
+
+## Technologies
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
 ---
 
