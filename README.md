@@ -63,10 +63,10 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 
 ## Installation
 1. Clone the repository:
-   ```bash```
-   git clone https://github.com/xAndreiix/Web_QR_Code_Generator.git
-   
-   cd qr-code-generator
+```bash
+git clone https://github.com/xAndreiix/Web_QR_Code_Generator.git
+cd qr-code-generator
+```
 2. Open index.html in your browser.
 3. Enter any text or URL and click Generate QR Code.
 
