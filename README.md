@@ -24,7 +24,7 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 ---
 
 ## Live Demo
-- [⛓️‍💥 Demo](https://web-qr-code-generator-steel.vercel.app/)
+[⛓️‍💥 Demo](https://web-qr-code-generator-steel.vercel.app/)
 
 ---
 
