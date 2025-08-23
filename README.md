@@ -46,20 +46,21 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 - Instant preview inside a `<canvas>`
 - Styled responsive UI
 - Uses QRCode.js (via CDN) to render canvas output
+<!-- ## Technologies -->
 
 ---
 
 ## Project Structure
 - 🗂️ Web QR Code Generator
-- ├── index.html                 # Main HTML file
-- ├── style.css                  # UI styling and layout
-- ├── script.js                  # JS logic using QRCode.toCanvas
-- ├── screenshots/               # Screenshots to display on GitHub repo
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── screenshots/
 - │   └── qr-code-app.png
 - │   └── qr-code-generated.png
-- ├── .gitignore                 # Git exclusions
-- ├── LICENSE                    # Open-source license (MIT)
-- └── README.md                  # Documentation
+- ├── .gitignore
+- ├── LICENSE
+- └── README.md
 <!-- ## Requirements -->
 
 ---
