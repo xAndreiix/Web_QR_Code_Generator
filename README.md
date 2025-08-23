@@ -58,7 +58,6 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 - ├── LICENSE                 # Open-source license (MIT)
 - └── README.md               # Documentation
 <!-- ## Requirements -->
-<!-- Installation -->
 
 ---
 
