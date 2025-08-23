@@ -51,12 +51,15 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 
 ## Project Structure
 - 🗂️ Web QR Code Generator
-- ├── index.html              # Main HTML file
-- ├── style.css               # UI styling and layout
-- ├── script.js               # JS logic using QRCode.toCanvas
-- ├── .gitignore              # Git exclusions
-- ├── LICENSE                 # Open-source license (MIT)
-- └── README.md               # Documentation
+- ├── index.html                 # Main HTML file
+- ├── style.css                  # UI styling and layout
+- ├── script.js                  # JS logic using QRCode.toCanvas
+- ├── screenshots/               # Screenshots to display on GitHub repo
+- │   └── qr-code-app.png
+- │   └── qr-code-generated.png
+- ├── .gitignore                 # Git exclusions
+- ├── LICENSE                    # Open-source license (MIT)
+- └── README.md                  # Documentation
 <!-- ## Requirements -->
 
 ---
