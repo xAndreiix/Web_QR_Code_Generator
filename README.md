@@ -58,7 +58,7 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 ---
 
 ## Project Structure
-- 🗂️ Web QR Code Generator
+- 📁 Web QR Code Generator
 - ├── index.html
 - ├── style.css
 - ├── script.js
