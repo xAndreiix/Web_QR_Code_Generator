@@ -3,7 +3,7 @@
 ---
 
 ## 📋 Table of Contents
-- 🏷️ [Introduction](#introduction)
+- 🏷️ [Project Description](#project-description)
 - 💻 [Live Demo](#live-demo)
 - 📷 [Screenshots](#screenshots)
 - ✨ [Features](#features)
@@ -18,7 +18,7 @@
 
 ---
 
-## Introduction
+## Project Description
 A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla JavaScript**, using the [qrcode](https://www.npmjs.com/package/qrcode) library via CDN. No dependencies or build tools required.
 <!-- ## Badges -->
 
