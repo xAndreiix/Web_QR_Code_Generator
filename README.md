@@ -76,6 +76,8 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 1. Clone the repository:
 ```bash
 git clone https://github.com/xAndreiix/Web_QR_Code_Generator.git
+```
+```bash
 cd qr-code-generator
 ```
 2. Open index.html in your browser.
