@@ -31,13 +31,13 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/qr-code-app.png" width="600">
+  <img src="screenshots/qr-code-generator-mockup.png" width="600">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/qr-code-generated.png" width="600">
+  <img src="screenshots/webpage-qr-code-generator-mockup.png" width="600">
 </p>
 
 ---
@@ -63,8 +63,8 @@ A clean, simple QR code generator built with **HTML**, **CSS**, and **Vanilla Ja
 - ├── style.css
 - ├── script.js
 - ├── screenshots/
-- │   └── qr-code-app.png
-- │   └── qr-code-generated.png
+- │   └── qr-code-generator-mockup.png
+- │   └── webpage-qr-code-generator-mockup.png
 - ├── .gitignore
 - ├── LICENSE
 - └── README.md
